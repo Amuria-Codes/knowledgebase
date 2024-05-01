@@ -26,7 +26,7 @@ MC-HOST24.de bietet nicht nur die auf der Webseite angezeigten Domain Endungen a
 * .as
 * .asia
 * .asn.au
-* .at
+* .at-> 11.99 €
 * .auto
 * .ax
 * .ba
@@ -78,7 +78,7 @@ MC-HOST24.de bietet nicht nur die auf der Webseite angezeigten Domain Endungen a
 * .center
 * .cf
 * .cg
-* .ch
+* .ch-> 9.99 €
 * .chat
 * .cheap
 * .christmas
@@ -86,7 +86,7 @@ MC-HOST24.de bietet nicht nur die auf der Webseite angezeigten Domain Endungen a
 * .cl
 * .click
 * .clothing
-* .cloud
+* .cloud-> 30.00 €
 * .club
 * .cm
 * .cn
@@ -106,7 +106,7 @@ MC-HOST24.de bietet nicht nur die auf der Webseite angezeigten Domain Endungen a
 * .codes
 * .coffee
 * .cologne
-* .com
+* .com-> 12.49 €
 * .com.af
 * .com.ag
 * .com.ai
@@ -155,11 +155,11 @@ MC-HOST24.de bietet nicht nur die auf der Webseite angezeigten Domain Endungen a
 * .cx
 * .cy
 * .cz
-* .de
+* .de -> 6.49 €
 * .de.com
 * .delivery
 * .design
-* .dev
+* .dev-> 25.00 €
 * .diamonds
 * .diet
 * .digital
@@ -184,7 +184,7 @@ MC-HOST24.de bietet nicht nur die auf der Webseite angezeigten Domain Endungen a
 * .equipment
 * .es
 * .estate
-* .eu
+* .eu-> 6.99 €
 * .eu.com
 * .events
 * .expert
@@ -236,7 +236,7 @@ MC-HOST24.de bietet nicht nur die auf der Webseite angezeigten Domain Endungen a
 * .hiv
 * .holdings
 * .holiday
-* .host
+* .host-> 125.00 €
 * .hosting
 * .house
 * .hr
@@ -261,7 +261,7 @@ MC-HOST24.de bietet nicht nur die auf der Webseite angezeigten Domain Endungen a
 * .institute
 * .international
 * .investments
-* .io
+* .io-> 75.99 €
 * .is
 * .ist
 * .istanbul
@@ -290,7 +290,7 @@ MC-HOST24.de bietet nicht nur die auf der Webseite angezeigten Domain Endungen a
 * .life
 * .lighting
 * .limo
-* .link
+* .link-> 12.49 €
 * .live
 * .lol
 * .lt
@@ -306,7 +306,7 @@ MC-HOST24.de bietet nicht nur die auf der Webseite angezeigten Domain Endungen a
 * .mba
 * .mc
 * .md
-* .me
+* .me-> 24.99 €
 * .med.ec
 * .med.pro
 * .media
@@ -363,7 +363,7 @@ MC-HOST24.de bietet nicht nur die auf der Webseite angezeigten Domain Endungen a
 * .online
 * .or.at
 * .or.bi
-* .org
+* .org-> 14.99 €
 * .org.af
 * .org.ag
 * .org.ai
@@ -479,7 +479,7 @@ MC-HOST24.de bietet nicht nur die auf der Webseite angezeigten Domain Endungen a
 * .trade
 * .training
 * .travel
-* .tv
+* .tv-> 44.99 €
 * .ua
 * .ug
 * .uk
@@ -506,7 +506,7 @@ MC-HOST24.de bietet nicht nur die auf der Webseite angezeigten Domain Endungen a
 * .wiki
 * .win
 * .work
-* .world
+* .world-> 55.99 €
 * .ws
 * .wtf
 * .xxx
